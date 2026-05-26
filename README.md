@@ -36,3 +36,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesousamelo-rgb&layout=compact&theme=tokyonight"/>
 </p>
+## 🐍 Snake Animation
+
+![Snake animation](https://github.com/davidessousamelo-rgb/davidessousamelo-rgb/blob/output/github-contribution-grid-snake.svg)
