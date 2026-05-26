@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-## 📈 Estatísticas
+
 
 # 📊 Estatísticas
 
@@ -49,7 +49,7 @@
 <p align="center">
   <img src="https://github.com/davidessousamelo-rgb/davidessousamelo-rgb/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
-<h1 align="center">🛠️ Tecnologias</h1>
+<h1 align="justify">🛠️ Tecnologias</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
