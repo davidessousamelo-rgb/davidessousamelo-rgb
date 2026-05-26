@@ -31,5 +31,6 @@
 
 # 📊 Estatísticas
 
-
-
+<p align="center">
+  <img src="https://github.com/Calebe-Barros/Calebe-Barros/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
