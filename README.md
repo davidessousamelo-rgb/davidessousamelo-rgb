@@ -1,5 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Davi</h1>
-<img scr="ChatGPT Image 26 de mai. de 2026, 09_26_01">
+<img width="1983" height="793" alt="ChatGPT Image 26 de mai  de 2026, 09_26_01" src="https://github.com/user-attachments/assets/72d8c7c6-228d-478a-a2df-ecdabfc8bef2" />
+
 <p align="center">
 💻 Estudante e apaixonado por tecnologia <br>
 🚀 Aprendendo desenvolvimento web e programação <br>
