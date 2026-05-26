@@ -37,19 +37,8 @@
 </p>
 
 
-# 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidessousamelo-rgb&show_icons=true&theme=tokyonight">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidessousamelo-rgb&layout=compact&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github.com/davidessousamelo-rgb/davidessousamelo-rgb/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 <h1 align="justify">🛠️ Tecnologias</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
