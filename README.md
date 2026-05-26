@@ -31,16 +31,5 @@
 
 # 📊 Estatísticas
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidesousamelo-rgb&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidesousamelo-rgb&layout=compact&theme=tokyonight"/>
-</p>
-<picture align="center">
-<source media-"(prefers-color-scheme: dark)"
-srcset="htts://raw.githubivercontent.com/Faituladorafael/fariuladorafael/output/github-contribution-grid-snake-dark.svg>
-<source media-"(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Fabiuladora Faol/fabioladocal@el/output/github.contribution-grid-make-dark.svg">
-<img align="center" alt-"github contribution grid snake animation"
-sec-https://raw.githubusercontent.com/fabioladoratan/FabiuladoraFonl/output/github contribution-grid-snake.sv
-</picture>
+
