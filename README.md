@@ -6,6 +6,27 @@
 🚀 Aprendendo desenvolvimento web e programação <br>
 🎯 Sempre buscando evoluir e criar projetos criativos
 </p>
+<h1 align="center">Certificados</h1>
+
+<div align="center">
+
+<a href=" ">
+    <img src="<img width="927" height="603" alt="Captura de tela 2026-06-23 112608" src="https://github.com/user-attachments/assets/049a244f-1440-4f4c-97ec-657fb75d2b6c" />
+" alt="Certificado 1" width="220">
+</a>
+
+<a href="">
+    <img src="" alt="Certificado 2" width="220">
+</a>
+
+<a href="#">
+    <img src="certificados/ibm-skillsbuild-iw.png" alt="Certificado 3" width="220">
+</a>
+
+<a href="https://skills.yourlearning.ibm.com/certificate/share/aa75e98f32ewogICJvYmplY3RJZCIgOiAiUExBTi1CMkRFNUM5MjdFRUMiLAogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgImxlYXJuZXJDTlVNIiA6ICI4MDI1Nzc1UkVHIgp9089f4a803a-10">>
+    <img src="certificados/ibm-skillsbuild-ptic.png" alt="Certificado 4" width="220">
+</a>
+</div>
 
 ---
 
