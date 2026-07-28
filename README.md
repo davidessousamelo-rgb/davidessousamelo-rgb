@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Davi</h1>
-<img width="1983" height="803" alt="<img width="1792" height="592" alt="<img width="1672" height="941" alt="ChatGPT Image 28 de jul  de 2026, 11_32_57" src="https://github.com/user-attachments/assets/6073efe2-5021-444a-944f-c5d21cccbe0c" />
+<img width="1983" height="900" alt="<img width="1792" height="592" alt="<img width="1672" height="941" alt="ChatGPT Image 28 de jul  de 2026, 11_32_57" src="https://github.com/user-attachments/assets/6073efe2-5021-444a-944f-c5d21cccbe0c" />
 "  />
-" src="https://github.com/user-attachments/assets/72d8c7c6-228d-478a-a2df-ecdabfc8bef2" />
+
 
 <p align="center">
 💻 Estudante e apaixonado por tecnologia <br>
